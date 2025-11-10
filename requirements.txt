@@ -1,0 +1,6 @@
+﻿manim==0.18.0
+manim-physics
+numpy
+pillow
+opencv-python
+requests
